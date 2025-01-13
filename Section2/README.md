@@ -40,6 +40,5 @@
     - ArrayList: Array 기반으로 인덱스 접근이 빠름
     - Vector: ArrayList와 동일하나 Thread-safe (동기화 지원)
 
-
 <br>
 <hr>
