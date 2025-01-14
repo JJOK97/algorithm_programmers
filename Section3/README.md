@@ -3,11 +3,11 @@
 <br>
 
 ## 목차
-- [[ 강의 ] Map의 이해](3-1_Map의이해.md)
-- [[ 강의 ] Java Map 컬렉션](src/Main.java)
-- [[ 실습 ] 폰켓몬](src/폰켓몬/README.md)
-- [[ 실습 ] 완주하지 못한 선수](src/완주하지못한선수/README.md)
-- [[ 실습 ] 위장](src/위장/README.md)
+*[[ 강의 ] Map의 이해](3-1_Map의이해.md)*  
+*[[ 강의 ] Java Map 컬렉션](src/Main.java)*  
+*[[ 실습 ] 폰켓몬](src/폰켓몬/README.md)*  
+*[[ 실습 ] 완주하지 못한 선수](src/완주하지못한선수/README.md)*  
+*[[ 실습 ] 위장](src/위장/README.md)*  
 
 <br>
 <hr>

@@ -3,11 +3,11 @@
 <br>
 
 ## 목차
-- [[ 강의 ] Array와 List 이해하기](2-1_Array와List.md)
-- [[ 강의 ] Java List 컬렉션](src/Main.java)
-- [[ 실습 ] 최댓값 인덱스 구하기](src/최댓값인덱스구하기/README.md)
-- [[ 실습 ] 순열 검사](src/순열검사/README.md)
-- [[ 실습 ] 자연수 뒤집어 배열로 만들기](src/자연수뒤집어배열로만들기/README.md)
+*[[ 강의 ] Array와 List 이해하기](2-1_Array와List.md)*  
+*[[ 강의 ] Java List 컬렉션](src/Main.java)*  
+*[[ 실습 ] 최댓값 인덱스 구하기](src/최댓값인덱스구하기/README.md)*  
+*[[ 실습 ] 순열 검사](src/순열검사/README.md)*  
+*[[ 실습 ] 자연수 뒤집어 배열로 만들기](src/자연수뒤집어배열로만들기/README.md)*  
 
 <br>
 <hr>
