@@ -28,5 +28,4 @@ public class 실습 {
         return answer;
     }
 
-
 }
