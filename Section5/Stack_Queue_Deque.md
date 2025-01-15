@@ -186,7 +186,6 @@ public static void main(String[]args){
 >
 > 데이터를 넣은 후 순서대로 출력을 해야한다면 Stack / Queue
 > 
-> 
 
 <br>
 <hr>
