@@ -2,7 +2,7 @@
 
 <br>
 
-<img src="img.png" />
+<img src="img.png" alt="CERTIFICATE OF COMPLETION" />
 
 <br>
 
