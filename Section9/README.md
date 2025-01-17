@@ -1,4 +1,4 @@
-## Section 8 - Graph와 Non-Linear Search
+## Section 7 - Graph와 Non-Linear Search
 
 <br>
 
