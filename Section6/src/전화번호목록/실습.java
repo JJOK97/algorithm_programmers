@@ -2,7 +2,7 @@ package 전화번호목록;
 
 import java.util.*;
 
-class Solution {
+class 실습 {
     public boolean solution(String[] phone_book) {
         boolean answer = true;
 
