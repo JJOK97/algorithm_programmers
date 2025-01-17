@@ -182,7 +182,7 @@ Java의 기능과 라이브러리를 제대로 공부해야겠다고 생각했�
   <details>
   <summary>섹션 9. Tree</summary>
 
-  - [ ] [README.md](Section9/README.md)
+  - [ ] [README.md](Section8/README.md)
   - [ ] [강의] 9.1 Tree 개요
   - [ ] [강의] 9.2 Binary Search Tree의 동작. Heap 의 동작, Tree 가 응용된 Java Collection
   - [ ] [실습] 9-1. 더 맵게
