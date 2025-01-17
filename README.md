@@ -28,7 +28,8 @@ Java의 기능과 라이브러리를 제대로 공부해야겠다고 생각했�
   
   <details>
   <summary>섹션 1. 시작하기</summary>
-  
+
+  - [x] [README.md](Section1/README.md)
   - [x] [강의] 1-1. 강의소개
   - [x] [강의] 1-2. 컴퓨터가 데이터를 다루는 방법
   - [x] [강의] 1-3. 시간복잡도
@@ -41,8 +42,9 @@ Java의 기능과 라이브러리를 제대로 공부해야겠다고 생각했�
   </details>
   
   <details>
-  <summary>섹션 2. List(리스트)</summary>
-  
+  <summary>섹션 2. List</summary>
+
+  - [x] [README.md](Section2/README.md)
   - [x] [강의] 2-1. Array 와 List
   - [x] [강의] 2-2. (Coding) Java 의 List
   - [x] [실습] 2-1. 최대값 인덱스 구하기
@@ -58,8 +60,9 @@ Java의 기능과 라이브러리를 제대로 공부해야겠다고 생각했�
   </details>
   
   <details>
-  <summary>섹션 3. Map(맵)</summary>
-  
+  <summary>섹션 3. Map</summary>
+
+  - [x] [README.md](Section3/README.md)
   - [x] [강의] 3-1. Map 개요
   - [x] [강의] 3-2. (Coding) Map, java.util.Map
   - [x] [실습] 3-1. 폰켓몬
@@ -76,7 +79,8 @@ Java의 기능과 라이브러리를 제대로 공부해야겠다고 생각했�
   
   <details>
   <summary>섹션 4. Set(집합)</summary>
-  
+
+  - [x] [README.md](Section4/README.md)
   - [x] [강의] 4-1. 집합(Set), 교집합, 합집합, 차집합
   - [x] [강의] 4-2 (Coding) Set, java.util.Set
   - [x] [실습] 4-1. 로또 번호 검출기
@@ -92,8 +96,9 @@ Java의 기능과 라이브러리를 제대로 공부해야겠다고 생각했�
   </details>
   
   <details>
-  <summary>섹션 5. Stack/Queue(스택, 큐)</summary>
+  <summary>섹션 5. Stack/Queue</summary>
   
+  - [x] [README.md](Section5/README.md)
   - [x] [강의] 5-1. Stack/Queue 개요
   - [x] [강의] 5-2. (Coding) Stack, Queue, Deque
   - [x] [실습] 5-1. 올바른 괄호
@@ -112,24 +117,26 @@ Java의 기능과 라이브러리를 제대로 공부해야겠다고 생각했�
   
   <details>
   <summary>섹션 6. Linear Search(선형탐색)</summary>
-  
-  - [ ] [강의] 6-1. 선형탐색
-  - [ ] [강의] 6-2. (Coding) Object의 비교&대소비교, Collection.search
-  - [ ] [실습] 6-1. 전화번호 목록
-  - [ ] [실습] 6-2. 문자열 내 p와 y의 개수
-  - [ ] [실습] 6-3. 스킬트리
-  - [ ] [실습 풀이] 6-1. 전화번호 목록
-  - [ ] [실습 풀이] 6-2. 문자열 내 p와 y의 개수
-  - [ ] [실습 풀이] 6-3. 스킬트리
-  - [ ] [강의 자료] Linear Search(선형탐색)
+
+  - [x] [README.md](Section6/README.md)
+  - [x] [강의] 6-1. 선형탐색
+  - [x] [강의] 6-2. (Coding) Object의 비교&대소비교, Collection.search
+  - [x] [실습] 6-1. 전화번호 목록
+  - [x] [실습] 6-2. 문자열 내 p와 y의 개수
+  - [x] [실습] 6-3. 스킬트리
+  - [x] [실습 풀이] 6-1. 전화번호 목록
+  - [x] [실습 풀이] 6-2. 문자열 내 p와 y의 개수
+  - [x] [실습 풀이] 6-3. 스킬트리
+  - [x] [강의 자료] Linear Search(선형탐색)
   
   <br>
   
   </details>
   
   <details>
-  <summary>섹션 7. Sort(정렬)</summary>
-  
+  <summary>섹션 7. Sort</summary>
+
+  - [ ] [README.md](Section7/README.md)
   - [ ] [강의] 7-1. 다양한 정렬 알고리즘
   - [ ] [강의] 7-2. (Coding) 정렬, Collection.sort
   - [ ] [실습] 7-1. 제일 작은 수 제거하기
@@ -149,7 +156,8 @@ Java의 기능과 라이브러리를 제대로 공부해야겠다고 생각했�
   
   <details>
   <summary>섹션 8. Graph와 Non-Linear Search(그래프와 비선형 탐색)</summary>
-  
+
+  - [ ] [README.md](Section8/README.md)
   - [ ] [강의] 8-1. Graph 개요
   - [ ] [강의] 8-2. (Coding) graph, BFS/DFS
   - [ ] [실습] 8-1. 네트워크
@@ -168,8 +176,9 @@ Java의 기능과 라이브러리를 제대로 공부해야겠다고 생각했�
   </details>
   
   <details>
-  <summary>섹션 9. Tree(트리)</summary>
-  
+  <summary>섹션 9. Tree</summary>
+
+  - [ ] [README.md](Section9/README.md)
   - [ ] [강의] 9.1 Tree 개요
   - [ ] [강의] 9.2 Binary Search Tree의 동작. Heap 의 동작, Tree 가 응용된 Java Collection
   - [ ] [실습] 9-1. 더 맵게
@@ -185,8 +194,9 @@ Java의 기능과 라이브러리를 제대로 공부해야겠다고 생각했�
   </details>
   
   <details>
-  <summary>섹션 10. 그리디(Greedy) 대표 문제 풀이</summary>
-  
+  <summary>섹션 10. Greedy 대표 문제 풀이</summary>
+
+  - [ ] [README.md](Section10/README.md)
   - [ ] [실습] Step 1. 기지국 설치 직접 풀어보기
   - [ ] [강의] Step 2. 지문 이해 및 풀이 계획 세우기
   - [ ] [강의] Step 3. 강사의 풀이 엿보기
@@ -196,8 +206,9 @@ Java의 기능과 라이브러리를 제대로 공부해야겠다고 생각했�
   </details>
   
   <details>
-  <summary>섹션 11. 정렬(Sort) 대표 문제 풀이</summary>
+  <summary>섹션 11. sort 대표 문제 풀이</summary>
   
+  - [ ] [README.md](Section11/README.md)
   - [ ] [실습] Step 1. 가장 큰 수 직접 풀어보기
   - [ ] [강의] Step 2. 지문 이해 및 풀이 계획 세우기
   - [ ] [강의] Step 3. 강사의 풀이 엿보기
@@ -207,8 +218,9 @@ Java의 기능과 라이브러리를 제대로 공부해야겠다고 생각했�
   </details>
   
   <details>
-  <summary>섹션 12. 이분탐색(Binary Search) 대표 문제 풀이</summary>
+  <summary>섹션 12. Binary Search 대표 문제 풀이</summary>
   
+  - [ ] [README.md](Section12/README.md)
   - [ ] [실습] Step 1. 숫자 게임 직접 풀어보기
   - [ ] [강의] Step 2. 지문 이해 및 풀이 계획 세우기
   - [ ] [강의] Step 3. 강사의 풀이 엿보기
@@ -218,8 +230,9 @@ Java의 기능과 라이브러리를 제대로 공부해야겠다고 생각했�
   </details>
   
   <details>
-  <summary>섹션 13. 시뮬레이션(Simulation) 대표 문제: 숫자 게임</summary>
-  
+  <summary>섹션 13. Simulation 대표 문제: 숫자 게임</summary>
+
+  - [x] [README.md](Section13/README.md)
   - [ ] [실습] Step 1. 숫자 게임 직접 풀어보기
   - [ ] [강의] Step 2. 지문 이해 및 풀이 계획 세우기
   - [ ] [강의] Step 3. 강사의 풀이 엿보기
@@ -229,8 +242,9 @@ Java의 기능과 라이브러리를 제대로 공부해야겠다고 생각했�
   </details>
   
   <details>
-  <summary>섹션 14. 해시(Hash) 대표 문제</summary>
-  
+  <summary>섹션 14. 해시 대표 문제</summary>
+
+  - [ ] [README.md](Section14/README.md)
   - [ ] [실습] Step 1. 위장 직접 풀어보기
   - [ ] [강의] Step 2. 지문 이해 및 풀이 계획 세우기
   - [ ] [강의] Step 3. 강사의 풀이 엿보기
@@ -241,7 +255,8 @@ Java의 기능과 라이브러리를 제대로 공부해야겠다고 생각했�
   
   <details>
   <summary>섹션 15. 너비우선탐색(BFS) /깊이우선탐색(DFS) 대표 문제</summary>
-  
+
+  - [ ] [README.md](Section15/README.md)
   - [ ] [BFS][실습] Step 1. 게임 맵 최단거리 직접 풀어보기
   - [ ] [BFS][강의] Step 2. 지문 이해 및 풀이 계획 세우기
   - [ ] [BFS][강의] Step 3. 강사의 풀이 엿보기
@@ -255,7 +270,8 @@ Java의 기능과 라이브러리를 제대로 공부해야겠다고 생각했�
   
   <details>
   <summary>섹션 16. 동적계획법(Dynamic Programming) 대표 문제</summary>
-  
+
+  - [ ] [README.md](Section16/README.md)
   - [ ] [실습] Step 1. 정수 삼각형 직접 풀어보기
   - [ ] [강의] Step 2. 지문 이해 및 풀이 계획 세우기
   - [ ] [강의] Step 3. 강사의 풀이 엿보기
