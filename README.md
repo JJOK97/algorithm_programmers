@@ -2,6 +2,12 @@
 
 <br>
 
+<div align="center">
+    <img src="img.png" style="width:500px;" />
+</div>
+
+<br>
+
 ## 수강 목적
 
 이 강의를 선택한 가장 큰 이유는 알고리즘에 대한 저의 접근 방식을 바꾸고 싶었기 때문입니다.  
